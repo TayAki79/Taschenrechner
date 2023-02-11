@@ -1,0 +1,13 @@
+{
+  "editor.quickSuggestionsDelay": 1,
+  "editor.quickSuggestions": {
+
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.snippetSuggestions": "bottom",
+  "editor.suggest.preview": true,
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
